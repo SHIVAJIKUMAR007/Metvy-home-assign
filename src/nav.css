@@ -1,0 +1,15 @@
+.nav {
+  padding: 1rem 4rem;
+  border-bottom: 2px solid rgb(158, 143, 143);
+  box-shadow: 0px 0 8px black;
+}
+
+.nav p {
+  margin: 0;
+  padding: 0;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+.nav p span {
+  color: red;
+}
