@@ -11,3 +11,5 @@ Name : shivaji kumar
 mobile no : 8295850524
 
 email : official.shivaji007@gmail.com
+
+Host on netlify : https://60aa35d4c56e6e25d2672230--metvy-home-assign-by-shivaji-kumar.netlify.app/
